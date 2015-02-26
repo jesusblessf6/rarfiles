@@ -1,0 +1,8 @@
+c:\users\wing\documents\visual studio 2012\Projects\RarFiles\RarFiles\bin\Debug\RarFiles.exe.config
+c:\users\wing\documents\visual studio 2012\Projects\RarFiles\RarFiles\bin\Debug\RarFiles.exe
+c:\users\wing\documents\visual studio 2012\Projects\RarFiles\RarFiles\bin\Debug\RarFiles.pdb
+c:\users\wing\documents\visual studio 2012\Projects\RarFiles\RarFiles\obj\Debug\RarFiles.Form1.resources
+c:\users\wing\documents\visual studio 2012\Projects\RarFiles\RarFiles\obj\Debug\RarFiles.Properties.Resources.resources
+c:\users\wing\documents\visual studio 2012\Projects\RarFiles\RarFiles\obj\Debug\RarFiles.csproj.GenerateResource.Cache
+c:\users\wing\documents\visual studio 2012\Projects\RarFiles\RarFiles\obj\Debug\RarFiles.exe
+c:\users\wing\documents\visual studio 2012\Projects\RarFiles\RarFiles\obj\Debug\RarFiles.pdb
